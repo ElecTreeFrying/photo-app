@@ -1,0 +1,7 @@
+
+# Photo app
+
+
+# License
+
+MIT
